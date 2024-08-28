@@ -10,7 +10,7 @@ $GLOBALS['config'] = [
         'user' => 'root',
         'password' => '',
         'db_type' => 'mysql',
-        'db_name' => 'lblog_34713096_shop'
+        'db_name' => 'shop'
     ],
     'app_dir' => 'C:/xampp/htdocs/shop',
 ];
