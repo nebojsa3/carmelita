@@ -4,11 +4,11 @@ session_start();
 
 $GLOBALS['config'] = [
     'app_name' => 'Carmelita',
-    'domain' => 'http://nebojsatasic.liveblog365.com/carmelita/',
+    'domain' => 'http://localhost/carmelita/',
     'db' => [
-        'host' => 'sql106.liveblog365.com',
-        'user' => 'lblog_34713096',
-        'password' => 'mt9zt0gbr2xne3',
+        'host' => 'localhost',
+        'user' => 'root',
+        'password' => '',
         'db_type' => 'mysql',
         'db_name' => 'lblog_34713096_shop'
     ],
